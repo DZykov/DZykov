@@ -1,8 +1,8 @@
-### About Me:
+### About Me
 
 My name is Demid Zykov. I do projects for my portfolio to get into IT-industry or to satisfy my needs. Right now, I focus on information security; thus, I don't upload much projects.
 
-### My skills:
+### My skills
 
 <div align="center">
 <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=Java&logoColor=black" alt="java" />
@@ -48,7 +48,7 @@ My name is Demid Zykov. I do projects for my portfolio to get into IT-industry o
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
 </div>
 
-### GitHub Stats:
+### GitHub Stats
 <div align="center">
   <table width="100%">
     <tbody>
