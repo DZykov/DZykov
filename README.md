@@ -1,6 +1,14 @@
+<img src="./banner.png" alt="name banner" />
+
 ### About Me
 
 My name is Demid Zykov. I do projects for my portfolio to get into IT-industry or to satisfy my needs. Right now, I focus on information security; thus, I don't upload much projects.
+
+---
+<div align="center">
+<a href="https://www.linkedin.com/in/demid-zykov-86618b165/"> </a>
+<img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</div>
 
 ### My skills
 
