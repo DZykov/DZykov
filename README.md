@@ -1,6 +1,6 @@
 ### About Me:
 
-My name is Demid Zykov. I do projects for my portfolio to get into IT-industry or to satisfy my needs. 
+My name is Demid Zykov. I do projects for my portfolio to get into IT-industry or to satisfy my needs. Right now, I focus on information security; thus, I don't upload much projects.
 
 ### My skills:
 
