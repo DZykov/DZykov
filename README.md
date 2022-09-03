@@ -6,8 +6,9 @@ My name is Demid Zykov. I do projects for my portfolio to get into IT-industry o
 
 ---
 <div align="center">
-<a href="https://www.linkedin.com/in/demid-zykov-86618b165/"> </a>
+<a href="https://www.linkedin.com/in/demid-zykov-86618b165/">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
 </div>
 
 ### My skills
