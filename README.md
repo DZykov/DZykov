@@ -2,7 +2,7 @@
 
 ### About Me
 
-My name is Demid Zykov. I do projects for my portfolio to get into IT-industry or to satisfy my needs. Right now, I focus on information security; thus, I don't upload much projects.
+My name is Demid Zykov. I do projects for my portfolio to get into IT-industry or to satisfy my needs. Right now, I focus on information security and full stack development.
 
 ---
 <div align="center">
@@ -18,6 +18,7 @@ My name is Demid Zykov. I do projects for my portfolio to get into IT-industry o
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
 <img src="https://img.shields.io/badge/c-3776AB?style=for-the-badge&logo=c&logoColor=white" alt="c" />
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" />
+<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="dart">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby" />
 </div>
@@ -27,12 +28,6 @@ My name is Demid Zykov. I do projects for my portfolio to get into IT-industry o
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="node.js" />
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django" />
 <img src="https://img.shields.io/badge/Ruby%20on%20rails-CC0000?style=for-the-badge&logo=ruby%20on%20rails&logoColor=white" alt="rails" />
-</div>
-
-
-<div align="center">
-<img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" alt="godot" />
-<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="unity" />
 </div>
 
 <div align="center">
@@ -70,6 +65,11 @@ My name is Demid Zykov. I do projects for my portfolio to get into IT-industry o
 </div>
 
 <div align="center">
+<img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" alt="godot" />
+<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="unity" />
+</div>
+
+<div align="center">
 <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="gimp" />
 <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" alt="krita" />
 <img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13" alt="inkscape" />
@@ -85,7 +85,7 @@ My name is Demid Zykov. I do projects for my portfolio to get into IT-industry o
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/DZykov">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzykov&hide=Jupyter%20Notebook&layout=compact&hide_border=true&langs_count=7&theme=github_dark" alt="Demid's Language Stats" vertical-align="middle"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzykov&hide=Jupyter%20Notebook&layout=compact&hide_border=true&langs_count=8&theme=github_dark" alt="Demid's Language Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
