@@ -2,7 +2,7 @@
 
 ### About Me
 
-My name is Demid Zykov. I do projects for my portfolio to get into IT-industry or to satisfy my needs. Right now, I focus on information security and full stack development.
+My name is Demid Zykov. I do projects for my portfolio to get into IT-industry or to satisfy my needs.
 
 ---
 <div align="center">
